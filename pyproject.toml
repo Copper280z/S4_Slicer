@@ -3,9 +3,9 @@ name = "s4-slicer"
 version = "0.1.0"
 description = "A generic non-planar slicer, that can print almost any part without support."
 authors = [
-    {name = "Bird, Joshua",email = ""}
+    {name = "Bird, Joshua"}
 ]
-license = {text = "GPL-3.0"}
+license = "GPL-3.0"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
